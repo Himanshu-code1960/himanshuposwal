@@ -1,0 +1,28 @@
+---
+title: "References & Further Reading"
+author: "Himanshu Poswal"
+date: "2025-02-24"
+---
+
+# References & Further Reading:
+
+To deepen your understanding of `scikit-image` and its applications, here are some official resources, tutorials, and research papers that will help you explore more advanced image processing techniques.
+
+### 1. Official Documentation & GitHub Repository
+
+- __Scikit-Image Official Documentation__ – Comprehensive guide on scikit-image functions, examples, and API reference.
+ <a href = "https://scikit-image.org/docs/stable/" target = "_blank" > Official Doc </a>
+
+
+- __Scikit-Image GitHub Repository__ – Source code, latest updates, and community discussions.
+<a href = "https://github.com/scikit-image/scikit-image" target = "_blank" > GitHub Repo </a>
+
+### 2. Tutorials & Learning Resources
+
+- __Python Image Processing with Scikit-Image__ – A beginner-friendly introduction.
+<a href =  "https://realpython.com/image-processing-with-the-python-pillow-library/" target="_blank" > Real python Tutorial</a>
+
+- __Scikit-Image Course on DataCamp__ – Interactive coding exercises for image processing.
+<a href = "https://www.datacamp.com/courses/image-processing-with-scikit-image" target="_blank" > Datacamp Tutorial </a>
+
+

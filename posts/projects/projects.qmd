@@ -1,0 +1,17 @@
+---
+title: "Exposition Article (ES-114)"
+author: "Himanshu Poswal"
+date: "2025-02-24"
+description: "This project explores image processing using scikit-image."
+listing: 
+    fields: [Project] 
+---
+
+# 1. Interactive Image Processing with scikit-image
+
+1. [Introduction](intro.qmd)
+2. [Installation & Setup](setup.qmd)
+3. [Key Features](features.qmd)
+4. [Use Cases](use_cases.qmd)
+5. [Conclusion](conclusion.qmd)
+6. [References & Further Reading](references.qmd)
